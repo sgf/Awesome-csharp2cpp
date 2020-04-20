@@ -4,7 +4,7 @@ some BCL(.net Base Classes Library/.net framework) Implementation for C++ Projec
 尽管C++类库项目众多但是几乎所有的C++的类库与.net BCL的质量相距甚远。因此程序员们不遗余力地尝试在C++上实现顺手好用的BCL库，尽管大多非常不完整，但是值得纪念，并将他们罗列于此，以供后续有类似需求和动力的人参考，为他们节约时间。
 
 Despite the large number of C ++ class library projects, almost all C ++ class libraries are far from the quality of .net BCL. Therefore, programmers have spared no effort to try to achieve a handy and easy-to-use BCL library on C ++. Although most of them are very incomplete, they are worthy of commemoration, and they are listed here for future reference by people with similar needs and motivations to save them time.
-
+https://github.com/lollipopnougat/CppStd.git  </br>
 https://github.com/steamb23/SteamB23CodeSnippets.git   </br>
 https://github.com/pocoproject/poco.git  </br>
 https://github.com/aspose-cells/Aspose.Cells-for-C.git </br>
