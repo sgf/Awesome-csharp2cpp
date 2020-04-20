@@ -6,6 +6,7 @@ some BCL(.net Base Classes Library/.net framework) Implementation for C++ Projec
 Despite the large number of C ++ class library projects, almost all C ++ class libraries are far from the quality of .net BCL. Therefore, programmers have spared no effort to try to achieve a handy and easy-to-use BCL library on C ++. Although most of them are very incomplete, they are worthy of commemoration, and they are listed here for future reference by people with similar needs and motivations to save them time.
 
 
+https://github.com/pocoproject/poco.git  </br>
 https://github.com/aspose-cells/Aspose.Cells-for-C.git </br>
 https://github.com/aspose-pdf/Aspose.PDF-for-C  </br>
 https://github.com/IDWMaster/C--.NET.git   </br>
