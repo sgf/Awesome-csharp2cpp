@@ -9,6 +9,9 @@ https://github.com/AlexAlbala/Alter-Native </br>
 https://github.com/anydream/il2cpp </br>
 https://github.com/CosmosOS/IL2CPU </br>
 
+https://github.com/curimit/SugarCpp </br>
+https://github.com/csporter/csporter-cpp </br>
+
 ## .net library to cpp </br>
 
 some BCL(.net Base Classes Library/.net framework) Implementation for C++ Project List:</br>
