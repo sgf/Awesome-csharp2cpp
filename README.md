@@ -1,5 +1,6 @@
 # Awesome-csharp2cppp</br>
-## C# to cpp</br>
+
+## C# to cpp(or native)</br>
 https://github.com/ASDAlexander77/cs2cpp </br>
 https://github.com/kekyo/IL2C </br>
 https://github.com/afrog33k/SharpNative </br>
@@ -8,7 +9,7 @@ https://github.com/AlexAlbala/Alter-Native </br>
 https://github.com/anydream/il2cpp </br>
 
 
-## library to cpp </br>
+## .net library to cpp </br>
 
 some BCL(.net Base Classes Library/.net framework) Implementation for C++ Project List:</br>
 
