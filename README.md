@@ -30,6 +30,6 @@ https://github.com/vczh-libraries/Vlpp.git </br>
 https://github.com/Halofreak1990/XFXFramework.git </br>
 https://github.com/moswald/xunitpp.git </br>
 https://github.com/novaquark/xUnitpp.git </br>
-https://github.com/jairov4/NativeBCL </br>
-https://github.com/urasandesu/Swathe </br>
-
+https://github.com/jairov4/NativeBCL.git </br>
+https://github.com/urasandesu/Swathe.git </br>
+https://github.com/KonajuGames/CrossNetSystem.git </br>
