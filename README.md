@@ -1,4 +1,15 @@
-# Awesome-DotBCLNativeCpp</br>
+# Awesome-csharp2cppp</br>
+## C# to cpp</br>
+https://github.com/ASDAlexander77/cs2cpp </br>
+https://github.com/kekyo/IL2C </br>
+https://github.com/afrog33k/SharpNative </br>
+https://github.com/xen2/SharpLang </br>
+https://github.com/AlexAlbala/Alter-Native </br>
+https://github.com/anydream/il2cpp </br>
+
+
+## library to cpp </br>
+
 some BCL(.net Base Classes Library/.net framework) Implementation for C++ Project List:</br>
 
 尽管C++类库项目众多但是几乎所有的C++的类库与.net BCL的质量相距甚远。因此程序员们不遗余力地尝试在C++上实现顺手好用的BCL库，尽管大多非常不完整，但是值得纪念，并将他们罗列于此，以供后续有类似需求和动力的人参考，为他们节约时间。</br>
