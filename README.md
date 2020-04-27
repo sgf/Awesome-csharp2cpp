@@ -11,6 +11,8 @@ https://github.com/CosmosOS/IL2CPU </br>
 
 https://github.com/curimit/SugarCpp </br>
 https://github.com/csporter/csporter-cpp </br>
+https://github.com/pquiring/QSharp  </br>
+https://github.com/ciplogic/CodeRefractor </br>
 
 ## .net library to cpp </br>
 
