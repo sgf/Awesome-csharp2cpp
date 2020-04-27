@@ -32,5 +32,4 @@ https://github.com/moswald/xunitpp.git </br>
 https://github.com/novaquark/xUnitpp.git </br>
 https://github.com/jairov4/NativeBCL </br>
 https://github.com/urasandesu/Swathe </br>
-https://github.com/Shadowsith/stl-dotnet </br>
 
