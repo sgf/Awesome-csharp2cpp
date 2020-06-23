@@ -1,4 +1,4 @@
-# Awesome-csharp2cppp</br>
+# Awesome-csharp2cpp</br>
 
 ## C# to cpp(or native)</br>
 https://github.com/ASDAlexander77/cs2cpp </br>
@@ -28,7 +28,7 @@ Despite the large number of C ++ class library projects, almost all C ++ class l
  项目对比
   project  | evaluate | Link
   ------------- | ------------- | -------------
-  poco | ⭐x8 |  https://github.com/pocoprstaroject/poco.git  
+  poco | ⭐x7 |  https://github.com/pocoprstaroject/poco.git  
   Nano | ⭐x5 |  https://github.com/refnum/Nano.git 
   Switch | ⭐x5 |  https://github.com/victor-timoshin/Switch.git 
   MonoNative | ⭐x2 |  https://github.com/brunolauze/MonoNative.git
