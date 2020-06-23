@@ -33,29 +33,27 @@ Despite the large number of C ++ class library projects, almost all C ++ class l
   Switch | ⭐x5 |  https://github.com/victor-timoshin/Switch.git 
   MonoNative | ⭐x2 |  https://github.com/brunolauze/MonoNative.git
   NativeBCL | ⭐x1 |  https://github.com/jairov4/NativeBCL.git
-  dotnetnative | ⭐x3 |  https://github.com/Corillian/dotnetnative.git </br>
-  
-https://github.com/lollipopnougat/CppStd.git  </br>
-https://github.com/steamb23/SteamB23CodeSnippets.git   </br>
-https://github.com/aspose-cells/Aspose.Cells-for-C.git </br>
-https://github.com/aspose-pdf/Aspose.PDF-for-C  </br>
-https://github.com/IDWMaster/C--.NET.git   </br>
-https://github.com/GilFerraz/Cpp-.NET-Standard-Library.git </br>
-https://github.com/kmc7468/CppNet.git  </br>
-https://github.com/kmc7468/CppNet2.git </br>
-https://github.com/mydeveloperday/cpp-net-framework.git </br>
-https://github.com/ctguxp/CrapoLibrary.git  </br>
-https://github.com/ASDAlexander77/cs2cpp.git </br>
-https://github.com/TheBuzzSaw/DateTimePlusPlus.git </br>
-https://github.com/dotcpp/dotcpp.git </br>
-https://github.com/eval1749/evm.git </br>
-https://github.com/lriki/Lumino.git </br>
-https://github.com/Apress/pro-dot-net-framework-base-class-library.git </br>
-https://github.com/Shadowsith/stl-dotnet.git </br>
-https://github.com/vczh-libraries/Vlpp.git </br>
-https://github.com/Halofreak1990/XFXFramework.git </br>
-https://github.com/moswald/xunitpp.git </br>
-https://github.com/novaquark/xUnitpp.git </br>
-https://github.com/urasandesu/Swathe.git </br>
-https://github.com/KonajuGames/CrossNetSystem.git </br>
+  dotnetnative | ⭐x3 |  https://github.com/Corillian/dotnetnative.git
+  XFXFramework | ⭐x4 |  https://github.com/Halofreak1990/XFXFramework.git
+  Vlpp | ⭐x4 |  https://github.com/vczh-libraries/Vlpp.git
+  dotcpp | ⭐x3 |  https://github.com/dotcpp/dotcpp.git
+  CppNet | ⭐x2 |  https://github.com/kmc7468/CppNet.git
+  CppNet2 | ⭐x3 |  https://github.com/kmc7468/CppNet2.git
+  CppStd | ⭐x1 |  https://github.com/lollipopnougat/CppStd.git
+  C--.NET | ⭐x1 |  https://github.com/IDWMaster/C--.NET.git
+  CrapoLibrary | ⭐x3 |  https://github.com/ctguxp/CrapoLibrary.gi
+  cpp-net-framework | ⭐x2 |  https://github.com/mydeveloperday/cpp-net-framework.git
+  Cpp-.NET-Standard-Library | ⭐x2 |  https://github.com/GilFerraz/Cpp-.NET-Standard-Library.git
+  evm | ⭐x2 |  https://github.com/eval1749/evm.git
+  Lumino | ⭐x5 |   https://github.com/LuminoEngine/Lumino.git
+  Book src of pro-dot-net-framework-base-class-library | ⭐x1 |   https://github.com/Apress/pro-dot-net-framework-base-class-library.git
+  CrossNetSystem | ⭐x3 |  https://github.com/KonajuGames/CrossNetSystem.git 
+  stl-dotnet | ⭐x1 |  https://github.com/Shadowsith/stl-dotnet.git
+  CrossNetSystem | ⭐x2 | https://github.com/TheBuzzSaw/DateTimePlusPlus.git
+  xunitpp | ⭐x2 | https://github.com/moswald/xunitpp.git , https://github.com/novaquark/xUnitpp.git
+  SteamB23CodeSnippets | ⭐x1 | https://github.com/steamb23/SteamB23CodeSnippets.git
+  Aspose.Cells-for-C| ⭐x2 | https://github.com/aspose-cells/Aspose.Cells-for-C.git , https://github.com/aspose-pdf/Aspose.PDF-for-C
+  Swathe | ⭐x1 | https://github.com/urasandesu/Swathe.git
+ 
+
 
