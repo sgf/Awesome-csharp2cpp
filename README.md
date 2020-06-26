@@ -1,18 +1,25 @@
 # Awesome-csharp2cpp</br>
 
 ## C# to cpp(or native)</br>
-https://github.com/ASDAlexander77/cs2cpp </br>
-https://github.com/kekyo/IL2C </br>
-https://github.com/afrog33k/SharpNative </br>
-https://github.com/xen2/SharpLang </br>
-https://github.com/AlexAlbala/Alter-Native </br>
-https://github.com/anydream/il2cpp </br>
-https://github.com/CosmosOS/IL2CPU </br>
+ project  | evaluate | Link | -------------
+ ------------- | ------------- | ------------- | -------------
+[DotNetAnywhere](https://github.com/chrisdunelm/DotNetAnywhere) | - | Small .NET interpreter  | 
+[OrangeC](https://github.com/LADSoft/OrangeC) | - | includes a C compiler for .Net, which compiles to MSIL/CIL.  |   
+[DotNetPELib](https://github.com/LADSoft/DotNetPELib) | - | A C++11 library used to create a managed program (CIL) and dump to either .IL, .EXE, or .DLL format  | 
+[cs2cpp](https://github.com/ASDAlexander77/cs2cpp) | - | C# to C++ transpiler (Cs2Cpp) (Powered by Roslyn)  |   
+[IL2C](https://https://github.com/kekyo/IL2C) | - | IL2C - A translator for ECMA-335 CIL/MSIL to C language.  |   
+[SharpNative](https://github.com/afrog33k/SharpNative) | - | A C# to Native Code (D, C++ etc...) Transpiler based on Microsoft Roslyn  |   
+[SharpLang](https://github.com/xen2/SharpLang ) | - | Compiles .NET/C# to native code using LLVM framework. No longer active, consider migrating to https://github.com/dotnet/corert  | 
+[Alter-Native](https://github.com/AlexAlbala/Alter-Native) | - | Source code translator: from high-level language to native language (C++)  | 
+[il2cpp](https://github.com/anydream/il2cpp) | - | A MSIL/C# to C++ converter. Faster than CoreCLR with low memory overhead.(已弃坑.C#是个好语言,然而.NET不是一个干净的平台)  | 
+[IL2CPU](https://github.com/CosmosOS/IL2CPU) | - | IL2CPU is a compiler for .NET IL code to compile to assembly language for direct booting.  | 
+[SugarCpp](https://github.com/curimit/SugarCpp) | - | SugarCpp is a language which can compile to C++11.  | 
+[csporter-cpp](https://github.com/csporter/csporter-cpp) | - | csPorter for C++ is a porter application that migrates C# project to C++  | 
+[QSharp](https://github.com/pquiring/QSharp) | - | Q# is a C# to C++ compiler using the Qt library for the classlib  | 
+[CodeRefractor](https://github.com/ciplogic/CodeRefractor) | - | MSIL/CIL to Native C++ Compiler  | 
 
-https://github.com/curimit/SugarCpp </br>
-https://github.com/csporter/csporter-cpp </br>
-https://github.com/pquiring/QSharp  </br>
-https://github.com/ciplogic/CodeRefractor </br>
+
+
 
 ## .net library to cpp </br>
 
@@ -25,35 +32,35 @@ Despite the large number of C ++ class library projects, almost all C ++ class l
 
 
 
- 项目对比
+ 项目对比(compare)
   project  | evaluate | Link
   ------------- | ------------- | -------------
-  poco | ⭐x7 |  https://github.com/pocoprstaroject/poco.git  
-  Nano | ⭐x5 |  https://github.com/refnum/Nano.git 
-  Switch | ⭐x5 |  https://github.com/victor-timoshin/Switch.git 
-  Lumino | ⭐x5 |   https://github.com/LuminoEngine/Lumino.git
-  XFXFramework | ⭐x4 |  https://github.com/Halofreak1990/XFXFramework.git
-  Vlpp | ⭐x4 |  https://github.com/vczh-libraries/Vlpp.git
-  dotnetnative | ⭐x3 |  https://github.com/Corillian/dotnetnative.git
-  dotcpp | ⭐x3 |  https://github.com/dotcpp/dotcpp.git
-  CrossNetSystem | ⭐x3 |  https://github.com/KonajuGames/CrossNetSystem.git 
-  CrapoLibrary | ⭐x3 |  https://github.com/ctguxp/CrapoLibrary.gi
-  CppNet2 | ⭐x3 |  https://github.com/kmc7468/CppNet2.git
-  CppNet | ⭐x2 |  https://github.com/kmc7468/CppNet.git
-  evm | ⭐x2 |  https://github.com/eval1749/evm.git
-  CrossNetSystem | ⭐x2 | https://github.com/TheBuzzSaw/DateTimePlusPlus.git
-  MonoNative | ⭐x2 |  https://github.com/brunolauze/MonoNative.git
-  xunitpp | ⭐x2 | https://github.com/moswald/xunitpp.git , https://github.com/novaquark/xUnitpp.git
-  cpp-net-framework | ⭐x2 |  https://github.com/mydeveloperday/cpp-net-framework.git
-  Cpp-.NET-Standard-Library | ⭐x2 |  https://github.com/GilFerraz/Cpp-.NET-Standard-Library.git
-  CppStd | ⭐x1 |  https://github.com/lollipopnougat/CppStd.git
-  C--.NET | ⭐x1 |  https://github.com/IDWMaster/C--.NET.git
-  NativeBCL | ⭐x1 |  https://github.com/jairov4/NativeBCL.git
-  Book src of pro-dot-net-framework-base-class-library | ⭐x1 |   https://github.com/Apress/pro-dot-net-framework-base-class-library.git
-  stl-dotnet | ⭐x1 |  https://github.com/Shadowsith/stl-dotnet.git
-  SteamB23CodeSnippets | ⭐x1 | https://github.com/steamb23/SteamB23CodeSnippets.git
-  Aspose.Cells-for-C| ⭐x1 | https://github.com/aspose-cells/Aspose.Cells-for-C.git , https://github.com/aspose-pdf/Aspose.PDF-for-C
-  Swathe | ⭐x1 | https://github.com/urasandesu/Swathe.git
+  [poco](https://github.com/pocoprstaroject/poco.git) | ⭐x7 |  
+  [Nano](https://github.com/refnum/Nano.git) | ⭐x5 |   
+  [Switch](https://github.com/victor-timoshin/Switch.git ) | ⭐x5 |  
+  [Lumino](https://github.com/LuminoEngine/Lumino.git) | ⭐x5 |   
+  [XFXFramework](https://github.com/Halofreak1990/XFXFramework.git) | ⭐x4 |  
+  [Vlpp](https://github.com/vczh-libraries/Vlpp.git) | ⭐x4 |  
+  [dotnetnative](https://github.com/Corillian/dotnetnative.git) | ⭐x3 |  
+  [dotcpp](https://github.com/dotcpp/dotcpp.git) | ⭐x3 |  
+  [CrossNetSystem](https://github.com/KonajuGames/CrossNetSystem.git ) | ⭐x3 |  
+  [CrapoLibrary](https://github.com/ctguxp/CrapoLibrary.git) | ⭐x3 |  
+  [CppNet2](https://github.com/kmc7468/CppNet2.git) | ⭐x3 |  
+  [CppNet](https://github.com/kmc7468/CppNet.git) | ⭐x2 |  
+  [evm](https://github.com/eval1749/evm.git) | ⭐x2 |  
+  [CrossNetSystem](https://github.com/TheBuzzSaw/DateTimePlusPlus.git) | ⭐x2 | 
+  [MonoNative](https://github.com/brunolauze/MonoNative.git) | ⭐x2 |  
+  [xunitpp](https://github.com/moswald/xunitpp.git), [xunitpp fork](https://github.com/novaquark/xUnitpp.git) | ⭐x2 | 
+  [cpp-net-framework](https://github.com/mydeveloperday/cpp-net-framework.git) | ⭐x2 |  
+  [Cpp-.NET-Standard-Library](https://github.com/GilFerraz/Cpp-.NET-Standard-Library.git) | ⭐x2 |  
+  [CppStd](https://github.com/lollipopnougat/CppStd.git) | ⭐x1 |  
+  [C--.NET](https://github.com/IDWMaster/C--.NET.git) | ⭐x1 |  
+  [NativeBCL](https://github.com/jairov4/NativeBCL.git) | ⭐x1 |  
+  [Book src of pro-dot-net-framework-base-class-library](https://github.com/Apress/pro-dot-net-framework-base-class-library.git) | ⭐x1 |   
+  [stl-dotnet](https://github.com/Shadowsith/stl-dotnet.git) | ⭐x1 |  
+  [SteamB23CodeSnippets](https://github.com/steamb23/SteamB23CodeSnippets.git) | ⭐x1 | 
+  [Aspose.Cells-for-C](https://github.com/aspose-cells/Aspose.Cells-for-C.git) [Aspose.PDF-for-C](https://github.com/aspose-pdf/Aspose.PDF-for-C) | ⭐x1 |
+  [Swathe](https://github.com/urasandesu/Swathe.git) | ⭐x1 | 
  
 
 
