@@ -7,7 +7,7 @@
 [OrangeC](https://github.com/LADSoft/OrangeC) | - | includes a C compiler for .Net, which compiles to MSIL/CIL.  |   
 [DotNetPELib](https://github.com/LADSoft/DotNetPELib) | - | A C++11 library used to create a managed program (CIL) and dump to either .IL, .EXE, or .DLL format  | 
 [cs2cpp](https://github.com/ASDAlexander77/cs2cpp) | - | C# to C++ transpiler (Cs2Cpp) (Powered by Roslyn)  |   
-[IL2C](https://https://github.com/kekyo/IL2C) | - | IL2C - A translator for ECMA-335 CIL/MSIL to C language.  |   
+[IL2C](https://github.com/kekyo/IL2C) | - | IL2C - A translator for ECMA-335 CIL/MSIL to C language.  |   
 [SharpNative](https://github.com/afrog33k/SharpNative) | - | A C# to Native Code (D, C++ etc...) Transpiler based on Microsoft Roslyn  |   
 [SharpLang](https://github.com/xen2/SharpLang ) | - | Compiles .NET/C# to native code using LLVM framework. No longer active, consider migrating to https://github.com/dotnet/corert  | 
 [Alter-Native](https://github.com/AlexAlbala/Alter-Native) | - | Source code translator: from high-level language to native language (C++)  | 
