@@ -48,19 +48,19 @@ Despite the large number of C ++ class library projects, almost all C ++ class l
   [CppNet2](https://github.com/kmc7468/CppNet2.git) | ⭐x3 |  .NET Standard Implementation for C++17
   [CppNet](https://github.com/kmc7468/CppNet.git) | ⭐x2 |  .Net framework Classes for C++
   [evm](https://github.com/eval1749/evm.git) | ⭐x2 |  
-  [CrossNetSystem](https://github.com/TheBuzzSaw/DateTimePlusPlus.git) | ⭐x2 | 
-  [MonoNative](https://github.com/brunolauze/MonoNative.git) | ⭐x2 |  
-  [xunitpp](https://github.com/moswald/xunitpp.git), [xunitpp fork](https://github.com/novaquark/xUnitpp.git) | ⭐x2 | 
-  [cpp-net-framework](https://github.com/mydeveloperday/cpp-net-framework.git) | ⭐x2 |  
-  [Cpp-.NET-Standard-Library](https://github.com/GilFerraz/Cpp-.NET-Standard-Library.git) | ⭐x2 |  
-  [CppStd](https://github.com/lollipopnougat/CppStd.git) | ⭐x1 |  
-  [C--.NET](https://github.com/IDWMaster/C--.NET.git) | ⭐x1 |  
-  [NativeBCL](https://github.com/jairov4/NativeBCL.git) | ⭐x1 |  
-  [Book src of pro-dot-net-framework-base-class-library](https://github.com/Apress/pro-dot-net-framework-base-class-library.git) | ⭐x1 |   
-  [stl-dotnet](https://github.com/Shadowsith/stl-dotnet.git) | ⭐x1 |  
-  [SteamB23CodeSnippets](https://github.com/steamb23/SteamB23CodeSnippets.git) | ⭐x1 | 
-  [Aspose.Cells-for-C](https://github.com/aspose-cells/Aspose.Cells-for-C.git) [Aspose.PDF-for-C](https://github.com/aspose-pdf/Aspose.PDF-for-C) | ⭐x1 |
-  [Swathe](https://github.com/urasandesu/Swathe.git) | ⭐x1 | 
+  [CrossNetSystem](https://github.com/TheBuzzSaw/DateTimePlusPlus.git) | ⭐x2 | My C++ port of the .NET DateTime struct
+  [MonoNative](https://github.com/brunolauze/MonoNative.git) | ⭐x2 |   Mono C++ Bindings
+  [xunitpp](https://github.com/moswald/xunitpp.git), [xunitpp fork](https://github.com/novaquark/xUnitpp.git) | ⭐x2 | A unit testing library written in C++, inspired by xUnit.net.
+  [cpp-net-framework](https://github.com/mydeveloperday/cpp-net-framework.git) | ⭐x2 |  An experimental .NET Framework for C++
+  [Cpp-.NET-Standard-Library](https://github.com/GilFerraz/Cpp-.NET-Standard-Library.git) | ⭐x2 |  .NET Standard Library port to C++ (proof of concept)
+  [CppStd](https://github.com/lollipopnougat/CppStd.git) | ⭐x1 |  参考 .NET 类库 和 Java 库 为 C++ 添加相对应功能
+  [C--.NET](https://github.com/IDWMaster/C--.NET.git) | ⭐x1 |  A port of the .NET/Mono framework to native code
+  [NativeBCL](https://github.com/jairov4/NativeBCL.git) | ⭐x1 |  Native C++ Base Class Library
+  [Book src of pro-dot-net-framework-base-class-library](https://github.com/Apress/pro-dot-net-framework-base-class-library.git) | ⭐x1 |   Source Code for 'Pro .NET Framework with the Base Class Library' by Roger Villela
+  [stl-dotnet](https://github.com/Shadowsith/stl-dotnet.git) | ⭐x1 |  Static classes for cpp STL like them from the C# .NET framework
+  [SteamB23CodeSnippets](https://github.com/steamb23/SteamB23CodeSnippets.git) | ⭐x1 | SteamB23's Code Snippets
+  [Aspose.Cells-for-C](https://github.com/aspose-cells/Aspose.Cells-for-C.git) [Aspose.PDF-for-C](https://github.com/aspose-pdf/Aspose.PDF-for-C) | ⭐x1 | Aspose.Cells for C++ examples, plugins and showcases
+  [Swathe](https://github.com/urasandesu/Swathe.git) | ⭐x1 | Swathe enwraps Unmanaged APIs with the modern C++ interfaces that look like Reflection in the .NET Framework .
  
 
 
