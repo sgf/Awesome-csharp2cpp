@@ -1,7 +1,7 @@
 # Awesome-csharp2cpp</br>
 
 ## C# to cpp(or native)</br>
- project  | evaluate | Link | -------------
+ project  | evaluate | Introduction | -------------
  ------------- | ------------- | ------------- | -------------
 [DotNetAnywhere](https://github.com/chrisdunelm/DotNetAnywhere) | - | Small .NET interpreter  | 
 [OrangeC](https://github.com/LADSoft/OrangeC) | - | includes a C compiler for .Net, which compiles to MSIL/CIL.  |   
@@ -33,20 +33,20 @@ Despite the large number of C ++ class library projects, almost all C ++ class l
 
 
  项目对比(compare)
-  project  | evaluate | Link
+  project  | evaluate | Introduction
   ------------- | ------------- | -------------
-  [poco](https://github.com/pocoproject/poco.git) | ⭐x7 |  
-  [Nano](https://github.com/refnum/Nano.git) | ⭐x5 |   
-  [Switch](https://github.com/victor-timoshin/Switch.git ) | ⭐x5 |  
-  [Lumino](https://github.com/LuminoEngine/Lumino.git) | ⭐x5 |   
-  [XFXFramework](https://github.com/Halofreak1990/XFXFramework.git) | ⭐x4 |  
-  [Vlpp](https://github.com/vczh-libraries/Vlpp.git) | ⭐x4 |  
-  [dotnetnative](https://github.com/Corillian/dotnetnative.git) | ⭐x3 |  
-  [dotcpp](https://github.com/dotcpp/dotcpp.git) | ⭐x3 |  
-  [CrossNetSystem](https://github.com/KonajuGames/CrossNetSystem.git ) | ⭐x3 |  
-  [CrapoLibrary](https://github.com/ctguxp/CrapoLibrary.git) | ⭐x3 |  
-  [CppNet2](https://github.com/kmc7468/CppNet2.git) | ⭐x3 |  
-  [CppNet](https://github.com/kmc7468/CppNet.git) | ⭐x2 |  
+  [poco](https://github.com/pocoproject/poco.git) | ⭐x7 |  powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
+  [Nano](https://github.com/refnum/Nano.git) | ⭐x5 |   High-performance C++ for macOS, iOS, tvOS, Android, Linux, and Windows
+  [Switch](https://github.com/victor-timoshin/Switch.git ) | ⭐x5 |  Native C++ port of .Net Framework on Windows, macOS, Linux, iOS and android.
+  [Lumino](https://github.com/LuminoEngine/Lumino.git) | ⭐x5 |   a framework for building real-time graphics applications.
+  [XFXFramework](https://github.com/Halofreak1990/XFXFramework.git) | ⭐x4 |  A replica of Microsoft's XNA Framework, written in C++ to facilitate easy game development on the original XBOX console.
+  [Vlpp](https://github.com/vczh-libraries/Vlpp.git) | ⭐x4 |  Common C++ construction, including string operation / generic container / linq / etc
+  [dotnetnative](https://github.com/Corillian/dotnetnative.git) | ⭐x3 |  A port of the .NET class library to C++
+  [dotcpp](https://github.com/dotcpp/dotcpp.git) | ⭐x3 |  Port of selected classes from popular C#/.NET libraries including the .NET Standard Library and NodaTime to native C++17.
+  [CrossNetSystem](https://github.com/KonajuGames/CrossNetSystem.git ) | ⭐x3 |  CrossNetSystem is the default Base Class Library (BCL) for CrossNet.
+  [CrapoLibrary](https://github.com/ctguxp/CrapoLibrary.git) | ⭐x3 |  Unmanaged C++ .Net Style library based on Mono
+  [CppNet2](https://github.com/kmc7468/CppNet2.git) | ⭐x3 |  .NET Standard Implementation for C++17
+  [CppNet](https://github.com/kmc7468/CppNet.git) | ⭐x2 |  .Net framework Classes for C++
   [evm](https://github.com/eval1749/evm.git) | ⭐x2 |  
   [CrossNetSystem](https://github.com/TheBuzzSaw/DateTimePlusPlus.git) | ⭐x2 | 
   [MonoNative](https://github.com/brunolauze/MonoNative.git) | ⭐x2 |  
