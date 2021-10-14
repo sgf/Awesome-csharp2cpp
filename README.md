@@ -39,6 +39,7 @@ Despite the large number of C ++ class library projects, almost all C ++ class l
   [poco](https://github.com/pocoproject/poco.git) | ⭐x7 |  powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
   [Nano](https://github.com/refnum/Nano.git) | ⭐x5 |   High-performance C++ for macOS, iOS, tvOS, Android, Linux, and Windows
   [Switch](https://github.com/victor-timoshin/Switch.git ) | ⭐x5 |  Native C++ port of .Net Framework on Windows, macOS, Linux, iOS and android.
+  [CppLikeCSharp](https://github.com/kkptm/CppLikeCSharp) | ⭐x5 |   Implement a basic class library consistent with the C# structure, including system.windows.forms.
   [Lumino](https://github.com/LuminoEngine/Lumino.git) | ⭐x5 |   a framework for building real-time graphics applications.
   [XFXFramework](https://github.com/Halofreak1990/XFXFramework.git) | ⭐x4 |  A replica of Microsoft's XNA Framework, written in C++ to facilitate easy game development on the original XBOX console.
   [Vlpp](https://github.com/vczh-libraries/Vlpp.git) | ⭐x4 |  Common C++ construction, including string operation / generic container / linq / etc
